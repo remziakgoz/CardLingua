@@ -12,14 +12,13 @@ CardLingua is a modern Android application designed to help users learn English 
 ## 📸 Screenshots
 Add screenshots here for a more visual README!
 
-<p align="center">
-  <img src="screenshots/Screenshot1.png" width="200"/>
-  <img src="screenshots/Screenshot3.png" width="200"/>
-  <img src="screenshots/Screenshot4.png" width="200"/>
-  <img src="screenshots/Screenshot5.png" width="200"/>
-  <img src="screenshots/Screenshot6.png" width="200"/>
-  <img src="screenshots/Screenshot7.png" width="200"/>
-</p>
+  <img src="https://github.com/remziakgoz/CardLingua/assets/111980306/f57b9ff7-6a99-4bd6-9371-c503a15a470d" width="220"/>
+  <img src="https://github.com/remziakgoz/CardLingua/assets/111980306/04b295d0-2e6a-49f9-a404-4f131b988187" width="220"/>
+  <img src="https://github.com/remziakgoz/CardLingua/assets/111980306/19868df0-21ee-4e42-a20e-e4b6f660b993" width="220"/>
+  <img src="https://github.com/remziakgoz/CardLingua/assets/111980306/3a66cfb2-4e65-44b1-9488-c37b49b64e4d" width="220"/>
+  <img src="https://github.com/remziakgoz/CardLingua/assets/111980306/7036e8c8-94a0-496c-a5ef-fbf98e3e1700" width="220"/>
+  <img src="https://github.com/remziakgoz/CardLingua/assets/111980306/c34d2de4-1956-4f4a-925b-c21d6abffdc8" width="220"/>
+  <img src="https://github.com/remziakgoz/CardLingua/assets/111980306/52a19707-8ff6-4f3b-9c03-81e3fc299870" width="220"/>
 
 ---
 
