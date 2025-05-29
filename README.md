@@ -9,6 +9,18 @@ CardLingua is a modern Android application designed to help users learn English 
 
 ---
 
+## 📸 Screenshots
+Add screenshots here for a more visual README!
+
+<img src="screenshots/Screenshot1.png" alt="Screenshot 1" width="250">
+<img src="screenshots/Screenshot3.png" alt="Screenshot 2" width="250">
+<img src="screenshots/Screenshot4.png" alt="Screenshot 3" width="250">
+<img src="screenshots/Screenshot5.png" alt="Screenshot 4" width="250">
+<img src="screenshots/Screenshot6.png" alt="Screenshot 5" width="250">
+<img src="screenshots/Screenshot7.png" alt="Screenshot 6" width="250">
+
+---
+
 ## ✨ Features
 
 ### Core Functionality
@@ -76,18 +88,6 @@ CardLingua/
   - Click **Run** ▶️ or use `Shift+F10`.
 
 > **Note:** No API keys or special configuration required. All data is local.
-
----
-
-## 📸 Screenshots
-Add screenshots here for a more visual README!
-
-<img src="screenshots/Screenshot1.png" width="250" />
-<img src="screenshots/Screenshot3.png" width="250" />
-<img src="screenshots/Screenshot4.png" width="250" />
-<img src="screenshots/Screenshot5.png" width="250" />
-<img src="screenshots/Screenshot6.png" width="250" />
-<img src="screenshots/Screenshot7.png" width="250" />
 
 ---
 
