@@ -10,7 +10,6 @@ CardLingua is a modern Android application designed to help users learn English 
 ---
 
 ## 📸 Screenshots
-Add screenshots here for a more visual README!
 
   <img src="https://github.com/user-attachments/assets/5238e766-9a19-4a5e-bd61-e67a575cc7bb" width="220"/>
   <img src="https://github.com/user-attachments/assets/dd65188b-3838-4660-a755-533e0fe576e4" width="220"/>
